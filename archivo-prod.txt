@@ -1,3 +1,0 @@
-Este archivo pertenece a la rama prod.
-
-La rama prod ha sido creada a partir de main para trabajar de forma independiente.
