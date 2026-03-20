@@ -1,3 +1,0 @@
-# codearts-solutions-smr
-Repositorio creado durante mis prácticas del ciclo de Sistemas Microinformáticos y Redes (SMR) en CodeArts Solutions. Aquí documento configuraciones de servidores, máquinas virtuales, redes, servicios y pruebas realizadas durante el aprendizaje en entornos empresariales.
-En este repositorio he utilizado comandos básicos de Git y Linux como git clone para descargar el repositorio, cd para moverme entre carpetas, ls para visualizar el contenido de los directorios, mkdir para crear nuevas carpetas, git branch para gestionar ramas del proyecto y nano README.md para editar archivos desde la terminal.

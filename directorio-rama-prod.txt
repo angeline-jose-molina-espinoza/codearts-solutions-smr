@@ -1,0 +1,6 @@
+Este repositorio contiene una rama principal llamada main.
+
+La rama main se utilizará como base estable del proyecto.
+
+A partir de esta rama se creará una rama secundaria llamada prod,
+donde se trabajará de forma independiente sin modificar la rama principal.
